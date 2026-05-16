@@ -14,4 +14,6 @@ yolo/EfficientNet 实时检测
 ```
 开发记录
 https://github.com/chenxqiyu/android_qnn_npu
+基于项目开发
+https://github.com/XiaoMi/StableDiffusionOnDevice
 ```
