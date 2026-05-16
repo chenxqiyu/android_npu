@@ -10,6 +10,8 @@ yolo/EfficientNet 实时检测，目前只支持搭建8gen3的手机，需要其
 ```
 <img width="1080" height="2400" alt="6213d17209575b3711d62622adfc7b44" src="https://github.com/user-attachments/assets/a6bc527c-3ce6-47c7-882d-b91928e03d6e" />
 <img width="1080" height="2400" alt="6072e41e9df281d01c2d6bb038af3b66" src="https://github.com/user-attachments/assets/ac8705bd-2e7b-444a-8145-9e492eb16a54" />
+<img width="1080" height="2400" alt="ff353dbc24e18045ec94a9f7da624cb5" src="https://github.com/user-attachments/assets/238af48f-f22c-455c-bd0a-373411723a05" />
+<img width="1080" height="2400" alt="Screenshot_2026-05-16-23-18-41-289_com chenx npu" src="https://github.com/user-attachments/assets/94d0db94-a30e-4501-b771-ee96e4b83b41" />
 
 ```
 开发记录
