@@ -16,4 +16,9 @@ yolo/EfficientNet 实时检测，目前只支持搭建8gen3的手机，需要其
 https://github.com/chenxqiyu/android_qnn_npu
 基于项目开发
 https://github.com/XiaoMi/StableDiffusionOnDevice
+
+高通文档
+https://docs.qualcomm.com/doc/80-63442-10/topic/general_introduction.html
+高通sdk下载
+https://qpm.qualcomm.com/#/main/tools/details/Qualcomm_AI_Runtime_SDK
 ```
