@@ -24,4 +24,6 @@ https://github.com/XiaoMi/StableDiffusionOnDevice
 https://docs.qualcomm.com/doc/80-63442-10/topic/general_introduction.html
 高通sdk下载
 https://qpm.qualcomm.com/#/main/tools/details/Qualcomm_AI_Runtime_SDK
+高通ai模型官网
+https://aihub.qualcomm.com/mobile/models
 ```
